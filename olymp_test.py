@@ -1,8 +1,8 @@
 from pyquotex.api import Quotex
 
 # Login Info (email और password यहां भरें)
-EMAIL = "your_email@example.com"
-PASSWORD = "your_password"
+EMAIL = "traderankit93.com"
+PASSWORD = "Ankit@123"
 
 q = Quotex(email=EMAIL, password=PASSWORD)
 

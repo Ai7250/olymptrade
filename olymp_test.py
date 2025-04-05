@@ -3,9 +3,9 @@
 from olymptradeapi.stable_api import Olymptrade
 
 # अपने credentials यहाँ भरें
-EMAIL = "your_email@example.com"
-PASSWORD = "your_password"
-SESSION_ID = "your_session_cookie_here"
+EMAIL = "artechnoteam.com"
+PASSWORD = "Ankit@123"
+SESSION_ID = "1000869312323232143243243243234432"
 
 # Olymptrade object बनाएं
 account = Olymptrade(EMAIL, PASSWORD, set_ssid=SESSION_ID)
